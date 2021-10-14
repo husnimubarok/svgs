@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="IFRC" src="https://upload.wikimedia.org/wikipedia/commons/3/38/IFRC_logo_2020.svg" width="60" />
+    <img alt="IFRC" src="IndonesianRedCross.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
